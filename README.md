@@ -1,7 +1,7 @@
 
 ![muppets guitar](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR2dmhhbWtycWp5amZ4ejdzYjV6c3pyb3Fkc3kzbHVtb3ZzaTE5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp1FjKHFQRobpQ6qXy/giphy.gif)
 
-# 👋 Heyllo!, I'am Muhamad Adliii
+# 👋 Hello!, I'am Muhamad Adliii
 Welcome to my little corner on GitHub.  
 Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
