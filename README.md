@@ -57,7 +57,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 <p align="center">
   <a href="https://open.spotify.com/user/31lnb3jfwc3raw6jbynviri37dlq">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" />
   </a>
 </p>
 
