@@ -1,20 +1,19 @@
-
-# 👋 Heyllo!, I'am Muhamad Adliii
-=======
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR2dmhhbWtycWp5amZ4ejdzYjV6c3pyb3Fkc3kzbHVtb3ZzaTE5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp1FjKHFQRobpQ6qXy/giphy.gif" width="800" />
 
 ## Yo! What's up bro? 🤘😎🤘
+
 Welcome to my little corner on GitHub.  
 Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
-- 🎵 Music enjoyer  
+- 🎵 Music enjoyer
 - 💻 Loves building stuff with code
-- 🎮 Roblox sometimes  
+- 🎮 Roblox sometimes
 - 📝 More info soon...
 
 ---
 
 ## 🛠️ I'm ready to work with...
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -34,12 +33,13 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ffffff)
 ![MySQLWorkbench](https://img.shields.io/badge/MySQL_Workbench-0d1117?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ffffff)
----
 
+---
 
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, 
 rgba(255,0,0,0.7),
