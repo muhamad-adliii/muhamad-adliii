@@ -1,5 +1,5 @@
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR2dmhhbWtycWp5amZ4ejdzYjV6c3pyb3Fkc3kzbHVtb3ZzaTE5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp1FjKHFQRobpQ6qXy/giphy.gif" width="350" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR2dmhhbWtycWp5amZ4ejdzYjV6c3pyb3Fkc3kzbHVtb3ZzaTE5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp1FjKHFQRobpQ6qXy/giphy.gif" width="500" />
 
 ## Yo! What's up bro? 🤘😎🤘
 Welcome to my little corner on GitHub.  
