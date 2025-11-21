@@ -12,7 +12,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-## 🛠️ I'm ready to work with...
+<h2>🛠️ I'm ready to work with...</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=ffffff)
@@ -26,7 +26,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-## 💻 OSes/tools I use...
+<h2>💻 OSes/tools I use...</h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
@@ -36,7 +36,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-<h3>🌐 Socials</h3>
+<h2>🌐 Socials</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/muhamad.adliii/">
