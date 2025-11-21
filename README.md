@@ -1,8 +1,9 @@
 
-![muppets guitar](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR2dmhhbWtycWp5amZ4ejdzYjV6c3pyb3Fkc3kzbHVtb3ZzaTE5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp1FjKHFQRobpQ6qXy/giphy.gif)
-
-
 # 👋 Heyllo!, I'am Muhamad Adliii
+=======
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR2dmhhbWtycWp5amZ4ejdzYjV6c3pyb3Fkc3kzbHVtb3ZzaTE5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp1FjKHFQRobpQ6qXy/giphy.gif" width="800" />
+
+## Yo! What's up bro? 🤘😎🤘
 Welcome to my little corner on GitHub.  
 Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
@@ -10,7 +11,6 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 - 💻 Loves building stuff with code
 - 🎮 Roblox sometimes  
 - 📝 More info soon...
-
 
 ---
 
