@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=dracula&show_offline=false&background_color=121212
+### 🎧 Now Playing on Spotify
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31lnb3jfwc3raw6jbynviri37dlq)
