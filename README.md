@@ -12,9 +12,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-<p style="margin:0; font-size:1.5em;">
-  🛠️ I'm ready to work with...
-</p>
+<h2 style="margin:0;">🛠️ I'm ready to work with...</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=ffffff)
