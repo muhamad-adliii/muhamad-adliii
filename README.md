@@ -12,7 +12,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-<p style="margin:0; font-size:2em;">
+<p style="margin:0; font-size:1.5em;">
   🛠️ I'm ready to work with...
 </p>
 
