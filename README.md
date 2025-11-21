@@ -39,7 +39,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, 
 rgba(255,0,0,0.7),
