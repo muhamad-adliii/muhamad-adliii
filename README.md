@@ -39,25 +39,34 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
-
 
 ## 🌐 Socials
+
 <p align="center">
-  <a href="https://instagram.com/USERNAME_IG">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/muhamad.adliii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@USERNAME_TIKTOK">
+  <a href="https://www.tiktok.com/@muhamad.adlii">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://x.com/USERNAME_X">
+  <a href="https://x.com/muhamad_adlii">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/USERNAME_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/channels/adliii">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/31lnb3jfwc3raw6jbynviri37dlq">
-    <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" alt="spotify-github-profile" />
   </a>
 </p>
 
