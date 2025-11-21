@@ -36,7 +36,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-## 🌐 Socials
+<h3>🌐 Socials</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/muhamad.adliii/">
