@@ -58,7 +58,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ---
 
-### 🎧 Now Playing on Spotify
+<h3 align="center">🎧 Now Playing on Spotify</h3>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
