@@ -38,10 +38,6 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-## 🌐 Socials
-
 <p align="center">
   <a href="https://www.instagram.com/muhamad.adliii/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -65,6 +61,7 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 <p align="center"> 
    <h2>🎧 Now Playing on Spotify</h2>
 </p>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lnb3jfwc3raw6jbynviri37dlq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" alt="spotify-github-profile" />
