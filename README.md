@@ -30,7 +30,6 @@ Just a guy who codes, plays guitar 🎸, and keeps grinding every day.
 
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ffffff)
 ![MySQLWorkbench](https://img.shields.io/badge/MySQL_Workbench-0d1117?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ffffff)
 
